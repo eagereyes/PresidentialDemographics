@@ -1,0 +1,19 @@
+
+Embed code for applet:
+
+<!--[if !IE]>-->
+      <object classid="java:org/eagereyes/presidents/PresidentialDemographics.class" 
+              type="application/x-java-applet"
+              archive="/media/2008/PresidentialDemographics.jar" 
+              height="510" width="580" >
+<!--<![endif]-->
+        <object classid="clsid:8AD9C840-044E-11D1-B3E9-00805F499D93" 
+                height="510" width="580" > 
+          <param name="code" value="org/eagereyes/presidents/PresidentialDemographics" />
+          <param name="archive" value="/media/2008/PresidentialDemographics.jar" />
+
+        </object> 
+<!--[if !IE]>-->
+
+      </object>
+<!--<![endif]-->
